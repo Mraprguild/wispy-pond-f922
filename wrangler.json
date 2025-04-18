@@ -27,3 +27,4 @@
   },
   "upload_source_maps": true
 }
+npx wrangler telemetry enable
